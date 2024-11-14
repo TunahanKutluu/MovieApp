@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.app {
+    margin: 0;
+    padding-bottom: 129px;
+    box-sizing: border-box;
+    list-style-type: none !important;
+    list-style: none !important;
+    width: 100%;
+    height: 100vh;
+    background-color: #000000;
+    color: #ffffff;
+}
+.ul{
+    list-style-type: none !important;
+}
